@@ -1,5 +1,5 @@
-# BBA Law degree
-##f irst year 
+# LLB Law degree
+## first year 
 
 ### sem1
 #### courses 
